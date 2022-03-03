@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+button {
+  width: 200px;
+  height: 80px;
+  background-color: rgb(173, 116, 226);
+  color: aliceblue;
+  font-size: large;
+  border: none;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+button:hover {
+  background-color: rgb(183, 126, 237);
+}
+.field {
+  font-size: x-large;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
